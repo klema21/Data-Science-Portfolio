@@ -10,5 +10,5 @@ Portfolio of data science projects completed by me for academic, self learning, 
 
 - ### Micro Projects: 
 
-	- __EXCEL__
-		- [Who Had a Better Year,Nomar Garciappara Or Ichiro Suzuki?].
+	- __Python__
+		- [Movie Recommendations using Recommender Systems](https://github.com/klema21/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20%20Analysis.ipynb) - A micro project to build a recommendation system that makes movie recommendations based on user review similarities.
