@@ -11,4 +11,4 @@ Portfolio of data science projects completed by me for academic, self learning, 
 - ### Micro Projects: 
 
 	- __Python__
-		- [Movie Recommendations using Recommender Systems](https://github.com/klema21/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20%20Analysis.ipynb) - A micro project to build a recommendation system that makes movie recommendations based on user review similarities.
+		- [Movie Recommendations using Recommender Systems](https://github.com/klema21/data-science-portfolio/blob/master/recommendationSystemPython.ipynb) - A micro project to build a recommendation system that makes movie recommendations based on user review similarities.
