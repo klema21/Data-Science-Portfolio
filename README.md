@@ -12,3 +12,5 @@ Portfolio of data science projects completed by me for academic, self learning, 
 
 	- __Python__
 		- [Movie Recommendations using Recommender Systems](https://github.com/klema21/data-science-portfolio/blob/master/recommendationSystemPython.ipynb) - A micro project to build a recommendation system that makes movie recommendations based on user review similarities.
+		- [K Nearest Neighbours](https://github.com/klema21/data-science-portfolio/blob/master/ML with K Nearest Neighbors.ipynb) -  Using KNN to classify instances from a fake dataset into two target classes, while choosing the best value for K using the elbow method.
+		- [Decision Trees and Random Forests](https://github.com/klema21/data-science-portfolio/blob/master/Machine Learning with Decision Trees and Random Forests.ipynb) -  Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
